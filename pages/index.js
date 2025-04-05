@@ -5,4 +5,5 @@ function Home() {
 function teste() {
   return "oi oi ";
 }
+
 export default Home;
